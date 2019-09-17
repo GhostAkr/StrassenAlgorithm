@@ -1,0 +1,12 @@
+/.vscode
+CmakeCache.txt
+/CMakeFiles
+CPackConfig.cmake
+CPackSourceConfig.cmake
+DartConfiguration.tcl
+a.exe
+/build
+cmake_install.cmake
+liba.a
+CTestTestfile.cmake
+Makefile
